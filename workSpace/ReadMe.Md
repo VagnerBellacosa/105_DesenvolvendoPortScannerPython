@@ -1,8 +1,8 @@
 ##### Desenvolvendo um Port Scanner em Python
 
-[**](https://hermes.digitalinnovation.one/lab_projects/files/47d8044d-ae7f-49e0-80e9-37bb8a9aa330.zip)
+[**](https://hermes.digitalinnovation.one/lab_projects/files/47d8044d-ae7f-49e0-80e9-37bb8a9aa330.zip)         <br>     
 
-[**](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/9109508a-e8c2-418e-bf9c-df77bcbe4482)[**](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/bed6bf9f-442a-4752-b582-bdb4efc05df7)
+[**](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/9109508a-e8c2-418e-bf9c-df77bcbe4482)         <br>     [**](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/bed6bf9f-442a-4752-b582-bdb4efc05df7)         <br>     
 
 
 
@@ -11,8 +11,14 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Parte 1](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/9109508a-e8c2-418e-bf9c-df77bcbe4482)[Parte 2](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/bed6bf9f-442a-4752-b582-bdb4efc05df7)[Parte 3](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/e34ac118-d8d3-4d2a-b2e0-f231015d31d1)[Parte 4](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/4efcacb2-7852-4506-a65f-04034feb90cd)[Parte 5](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/c6c735a9-7ea3-49a9-93b0-ecde471e24b6)[Parte 6](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/ea210fce-589b-4259-861b-c14a162e0995)[Parte 7](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/5c2e23b4-5d52-4dc2-8e98-d48683827c44)[Parte 8](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/6f7742ad-8e03-45bf-a10f-540a089c2631)
-
+- [Parte 1](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/9109508a-e8c2-418e-bf9c-df77bcbe4482)         <br>     
+- [Parte 2](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/bed6bf9f-442a-4752-b582-bdb4efc05df7)         <br>     
+- [Parte 3](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/e34ac118-d8d3-4d2a-b2e0-f231015d31d1)         <br>     
+- [Parte 4](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/4efcacb2-7852-4506-a65f-04034feb90cd)         <br>     
+- [Parte 5](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/c6c735a9-7ea3-49a9-93b0-ecde471e24b6)         <br>     
+- [Parte 6](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/ea210fce-589b-4259-861b-c14a162e0995)         <br>     
+- [Parte 7](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/5c2e23b4-5d52-4dc2-8e98-d48683827c44)         <br>     
+- [Parte 8](https://web.dio.me/lab/desenvolvendo-um-port-scanner-em-python/learning/6f7742ad-8e03-45bf-a10f-540a089c2631)         <br>     
 
 
 - CONTEÚDOS
@@ -34,8 +40,8 @@ Neste Labs o aluno irá aprender a desenvolver um Scanner de Portas TCP utilizan
 
 ###### ESPECIALISTA
 
-![author](https://hermes.digitalinnovation.one/users/author/photos/48282d6a-9cda-4c91-8055-4afbfeea686b.png)
+![author](https://hermes.digitalinnovation.one/users/author/photos/48282d6a-9cda-4c91-8055-4afbfeea686b.png)         <br>     
 
 ###### Bruno Dias
 
-Expert Instructor, Digital Innovation One[**](https://www.linkedin.com/in/brunodecamposdias/)
+Expert Instructor, Digital Innovation One[**](https://www.linkedin.com/in/brunodecamposdias/)         <br>     
